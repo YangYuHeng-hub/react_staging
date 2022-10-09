@@ -1,0 +1,8 @@
+.title{
+    display: contents;
+}
+
+.title input{
+    height: 30px;
+    border-radius: 5px
+}

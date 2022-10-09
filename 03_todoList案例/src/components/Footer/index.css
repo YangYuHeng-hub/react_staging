@@ -1,0 +1,9 @@
+button {
+    float: right;
+    color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: red;
+    height: 26px;
+    vertical-align: center;
+}

@@ -1,0 +1,8 @@
+.list{
+    display:inline-block;
+    list-style: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px 0;
+} 

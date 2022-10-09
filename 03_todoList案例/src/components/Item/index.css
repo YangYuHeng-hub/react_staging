@@ -1,0 +1,29 @@
+.active{
+    background-color: #ddd;
+}
+
+li {
+    height:30px;
+    width: 500px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    position: relative;
+    display: list-item;
+    line-height: 30px;
+    padding: 2px;
+}
+
+li button {
+    float: right;
+    display: none;
+    margin-top: 2px;
+    color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.btn-danger{
+    background-color: red;
+    height: 26px;
+    width: 50px;
+}
