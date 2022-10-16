@@ -38,3 +38,10 @@
             2.什么时候用defaultChecked？————仅仅展示勾选状态
                                             注意：defaultChecked只管第一次渲染
             3.value和defaultValue也是同理
+
+### 3.脚手架配置代理
+		1.第一种：直接在package.json中配置"proxy": "http://localhost:5000"
+		2.第二种：建立配置文件，详见：老师分享的配置文档
+                1.创建代理配置文件，在src下创建配置文件：src/setuoProxy.js
+                2.编写setupProxy.js配置具体代理规则
+
